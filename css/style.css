@@ -1,0 +1,46 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  width: 1440px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+ol {
+  list-style: none;
+}
+
+ul {
+  list-style: none;
+}
+
+.header__info {
+  display: flex;
+  justify-content: space-around;
+}
+
+.hero__menues {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 57px;
+}
+
+.hero__btn-book {
+  display: flex;
+  align-items: center;
+  background-color: #333C4F;
+  border-radius: 40px;
+  padding: 0px 54px 0px 12px;
+}
+
+.header_btn {
+  color: #fff;
+}/*# sourceMappingURL=style.css.map */
